@@ -2,7 +2,6 @@
 Problem #4: Minimum of Two
 
 Of two numbers, select one with minimum value.
-Here are several pairs of numbers for thorough testing.
 
 Note:
 This must be run with Python 3
