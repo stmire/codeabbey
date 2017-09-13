@@ -47,3 +47,4 @@ for i in range(len(num_list1)):
 
 print("C =", end=" ")
 print(min_list)
+
