@@ -29,7 +29,7 @@ for i in range(pair_amount):
         c = randint(0, 1000)
         pair = [a,b,c]
         pair_list.append(pair)
-print
+print("")
 
 print("Pair list:")
 for pair in pair_list:
