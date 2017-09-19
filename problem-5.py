@@ -1,5 +1,5 @@
 """
-Problem #4: Minimum of Three
+Problem #5: Minimum of Three
 
 Several triplets of numbers are given to you.
 Your task is to select minimum among each of triplets.
@@ -29,7 +29,6 @@ for i in range(pair_amount):
         c = randint(0, 1000)
         pair = [a,b,c]
         pair_list.append(pair)
-print("")
 
 print("Pair list:")
 for pair in pair_list:
