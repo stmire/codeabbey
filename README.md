@@ -11,3 +11,9 @@ These are my solutions to the problems listed (by ID) on [Code Abbey](http://www
 [Problem #3](http://www.codeabbey.com/index/task_view/sums-in-loop)
 
 [Problem #4](http://www.codeabbey.com/index/task_view/min-of-two)
+
+[Problem #5](http://www.codeabbey.com/index/task_view/min-of-three)
+
+[Problem #6](http://www.codeabbey.com/index/task_view/rounding)
+
+[Problem #7](http://www.codeabbey.com/index/task_view/fahrenheit-celsius)
