@@ -1,6 +1,3 @@
-"""Look at http://www.mathwarehouse.com/geometry/triangles/triangle-formulas.php
-For Triangle Inequality Theorem"""
-
 """
 Problem #9: Triangles
 
